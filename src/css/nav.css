@@ -18,10 +18,10 @@
   content: "";
   display: block;
   background-color: #222;
-  width: 40vw;
+  width: 40vh;
   height: 100vh;
 
-  border-radius: 0 1em 1em 0;
+  border-radius: 0 10% 10% 0;
 
   position: absolute;
   top: 0;
